@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Find Cheap Flights Worldwide & Book Yo",
+  "Type": "Screen",
+  "Id": "eM3YrV6bK0GkBbVmRm6Bew",
+  "Reference": "jxpZdVq_SUqDEenZfmRL7A/eM3YrV6bK0GkBbVmRm6Bew",
+  "ParentRef": "jxpZdVq_SUqDEenZfmRL7A/At9t61vuVEGBDzjOY5yddw",
+  "Created": "2025-09-01T13:14:25.6357192Z",
+  "Updated": "2025-09-01T13:14:25.6357192Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
